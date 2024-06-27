@@ -23,6 +23,8 @@ Before running this script, make sure you have the following:
  ```sh
     go get github.com/google/go-github/github
 
+
+
 ## Usage
 
 1. Create a file named `repos_to_delete.txt` in the root directory. List the names of repositories you want to delete, each on a new line.
