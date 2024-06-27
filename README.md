@@ -15,14 +15,14 @@ Before running this script, make sure you have the following:
 1. Clone this repository to your local machine:
 
    ```sh
-   git clone https://github.com/aradiyo/repo_deletion.git
-   cd repo_deletion
+   git clone https://github.com/aradiyo/repo_deletion.git && cd repo_deletion 
+   ```
 
 2. Install the required dependencies:
 
  ```sh
     go get github.com/google/go-github/github
-
+   ```
 
 
 ## Usage
